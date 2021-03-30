@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @TheRascaI
+- 👀 I’m interested in developing Webapps
+- 🌱 I’m currently learning React Apps
+- 💞️ I’m looking to collaborate on projects who make the world a better place
+- 📫 How to reach me: info@miomideal.com
